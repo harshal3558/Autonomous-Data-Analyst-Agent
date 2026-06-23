@@ -1,0 +1,17 @@
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-google-genai
+langchain-openai
+python-dotenv
+streamlit
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+requests
+kaggle
+pydantic
+langchain-groq
